@@ -1,3 +1,6 @@
+# Iterative solution of the Fibonacci secuency
+
+
 # My solution
 
 def calculate():
