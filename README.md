@@ -74,3 +74,18 @@ https://www.linuxhispano.net/2013/08/07/fibonacci-recursivo-python/
 18.8. Un ejemplo de recursividad poco eficiente (Algoritmos de Programación con Python)
 https://uniwebsidad.com/libros/algoritmos-python/capitulo-18/un-ejemplo-de-recursividad-poco-eficiente
 
+
+Proyecto Euler problema 2: números pares en la sucesión de Fibonacci - Nociones.de
+https://www.nociones.de/proyecto-euler-problema-2-numeros-impares-en-la-sucesion-de-fibonacci/
+
+Nociones.de - Aprende y comparte tus intereses.
+https://www.nociones.de/
+
+Formula para la suma de los números impares y pares de Fibonacci - Scenio
+https://scenio.es/formula-para-la-suma-de-los-numeros-impares-y-pares-de-fibonacci
+
+Suma de números de Fibonacci con índice impar – Exercitium
+https://www.glc.us.es/~jalonso/exercitium/suma-de-numeros-de-fibonacci-con-indice-impar/
+
+
+
